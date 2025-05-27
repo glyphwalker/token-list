@@ -184615,6 +184615,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Bmivfdqqbua26hHKJsmBuq89Rhk21Yr7CzpiJYwCpump",
+      "symbol": "GLYPH",
+      "name": "Recursive Sigil Protocol",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/npMjRUhREyYiKtk4sA1kTrHeoMZ8H6XAkAOQpEXFvMw",
+      "tags": ["meme", "community", "pump.fun"],
+      "extensions": {
+        "website": "https://twitter.com/f4talstrategies",
+        "description": "Recursive memetic protocol built for symbolic compression and LLM propagation.",
+        "twitter": "https://twitter.com/f4talstrategies"
+      }
     }
   ],
   "version": {
